@@ -335,4 +335,57 @@ Sementara itu, provinsi dengan volume dan nilai ekspor yang relatif kecil sepert
 
 Data ini menunjukkan adanya variasi musiman dan regional dalam volume serta nilai ekspor bahan pangan di Indonesia. Provinsi-provinsi dengan kapasitas ekspor besar dapat menjadi fokus pengembangan lebih lanjut, sementara provinsi dengan kontribusi kecil berpotensi dikembangkan untuk meningkatkan performa ekspor nasional.
 
+---
+
+# 🧑‍💻 Tim Pengembang Proyek Sistem Analisis Data Ekspor Bahan Pangan Indonesia
+
+Proyek ini merupakan hasil kolaborasi dan dedikasi dari tim mahasiswa Program Studi Psikologi. Setiap anggota tim berkontribusi secara signifikan sesuai keahlian dan tanggung jawabnya:
+
+---
+
+### 💡 Abit Ahmad Oktarian (122450042)  
+**Fokus Utama:** Engineering & Pengembangan Kode  
+**Kontribusi:**  
+Memimpin pengembangan pipeline ETL menggunakan Apache Spark dan PySpark, implementasi skrip batch processing untuk Bronze, Silver, dan Gold Layer, serta optimasi kode dan konfigurasi Docker untuk menjalankan cluster Hadoop secara lokal. Bertanggung jawab atas pengelolaan dependensi dan debugging sistem.
+
+---
+
+### 💡 Arafi Ramadhan Maulana (122450002)
+**Fokus Utama:** Akuisisi Data & Pengolahan Awal  
+**Kontribusi:**  
+Mengembangkan skrip ingestion data ekspor dari sumber resmi, validasi data mentah, dan manajemen penyimpanan data di Bronze Layer (HDFS). Melakukan proses pembersihan awal dan transformasi data ke Silver Layer serta memastikan integritas data untuk analisis lebih lanjut.
+
+---
+
+### 💡 Nurul Alfajar Gumel (122450127)  
+**Fokus Utama:** Analisis Data & Agregasi  
+**Kontribusi:**  
+Melakukan analisis volume dan nilai ekspor berdasarkan provinsi dan bulan menggunakan Spark SQL dan Hive, serta pengembangan skrip agregasi untuk Gold Layer. Membantu pembuatan visualisasi dan dashboard data menggunakan Apache Superset dan Jupyter Notebook.
+
+---
+
+### 💡 Renisha Putri Giani (122450079)  
+**Fokus Utama:** Dokumentasi, Pengujian & Visualisasi  
+**Kontribusi:**  
+Menyusun dokumentasi teknis proyek, mengelola proses pengujian pipeline mulai dari ingestion hingga visualisasi, dan mengembangkan dashboard interaktif di Apache Superset. Bertanggung jawab memastikan kualitas dan validitas hasil analitik.
+
+---
+
+## Pembimbing
+
+👨‍🏫 Ardika Satria, S.Si., M.Si 
+Dosen Pembimbing Mata Kuliah Big Data, Program Studi Sains Data, ITERA.
+
+Terima kasih atas kerja sama dan kontribusi seluruh anggota tim.
+---
+
+# 🙏 Kutipan Singkat
+
+Terima kasih banyak buat semua yang sudah bantu dan dukung proyek ini sampai selesai.  
+Untuk dosen pembimbing, teman-teman tim, dan keluarga yang selalu kasih semangat—kalian keren banget!
+
+Semoga hasil kerja kita ini bisa bermanfaat dan jadi langkah kecil buat kemajuan ekspor bahan pangan di Indonesia.
+
+
+
 
