@@ -1,6 +1,6 @@
 ========
 
-📊🌾📦 Pemanfaatan Ekosistem Hadoop untuk Analisis Data Ekspor Bahan Pangan di Indonesia 📦🌾📊
+# **📊🌾📦 PEMANFAATAN EKOSISTEM HADOOP UNTUK ANALISIS DATA EKSPOR BAHAN PANGAN DI INDONESIA 📦🌾📊**
 
 Selamat datang di repositori proyek analisis big data untuk menganalisis dan mengoptimalkan data ekspor bahan pangan di Indonesia!
 
